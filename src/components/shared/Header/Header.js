@@ -33,11 +33,6 @@ const Header = () => {
             Products
           </NavLink>
         </li>
-        <li>
-          <Link to="/cart" className="btn btn-danger">
-            Cart (0)
-          </Link>
-        </li>
       </ul>
     </header>
   );
